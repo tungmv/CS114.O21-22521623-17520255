@@ -1,0 +1,6 @@
+- data visualize
+- data augmentation
+- feature extraction 
+- model configuration (co the chon logistic regresssion)
+- model training (Nên có visualize model accuracy, model loss để xem các hyperparameters có cần điều chỉnh không)
+- model evaluation (Dùng model (kết quả của bước Model Training) để predict CategoryID của các ảnh trong tập dữ liệu Test, sau đó tính Accuracy và Confusion Matrix)
